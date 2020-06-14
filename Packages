@@ -1,0 +1,23 @@
+Package: idv.aqua.imem
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./pkg/idv.aqua.imem.deb
+Size: 403364
+MD5sum: dd89745b14ce73e39364e3f6d44a76cd
+SHA1: 7610bdbec2e4dd82d018da63ae498845bebdf463
+SHA256: f9e277e7ef7a196b5c9af2f735c76231bb92b833861f9a891cbbe36955d25436
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.imem
+Dev: aqua
+Name: iMemEditor
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.imem/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+

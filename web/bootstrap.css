@@ -1,0 +1,118 @@
+@media (min-width: 768px) {
+    .jumbotron {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+  html {
+    overflow: scroll;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0px; 
+    background: transparent; 
+  }
+  
+  .jumbotron {
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+  }
+  
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .jumbotron h1 {
+    font-weight: 300;
+  }
+  
+  .jumbotron .container {
+    max-width: 40rem;
+  }
+  
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .bg-light {
+      color: #FFF;
+      background-color: rgb(50, 50, 50) !important;
+    }
+  
+    .bg-white {
+      color: #FFF;
+      background-color: rgb(30, 30, 30) !important;
+    }
+  
+    .card {
+      background-color: rgb(60, 60, 60) !important;
+    }
+  
+    .btn-outline-secondary {
+      color: rgb(218, 218, 218) !important;
+      border-color: rgb(218, 218, 218) !important;
+    }
+  
+    .btn-outline-secondary:hover {
+      background-color: rgb(129, 129, 129) !important;
+      border-color: rgb(129, 129, 129) !important;
+    }
+  
+    a {
+      transition: color 0.15s;
+    }
+  
+    .text-muted {
+      color: rgb(219, 219, 219) !important;
+    }
+  
+    a.text-muted:hover {
+      color: rgb(160, 160, 160) !important;
+    }
+  
+    .btn-primary {
+      background-color: rgba(255, 255, 255, 0) !important;
+      color: rgb(218, 218, 218) !important;
+      border-color: rgb(218, 218, 218) !important;
+    }
+  
+    .btn-primary:hover {
+      background-color: rgb(129, 129, 129) !important;
+      border-color: rgb(129, 129, 129) !important;
+    }
+  }
+  
+  @media (prefers-color-scheme: light) {
+    .bg-light {
+      background-color: rgb(235, 235, 235) !important;
+    }
+    .bg-white {
+      background-color: #FFF !important;
+    }
+    .card {
+      background-color: rgb(245, 245, 245) !important;
+    }
+  }
+  
