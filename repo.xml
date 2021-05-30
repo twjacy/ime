@@ -1,0 +1,29 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/twjacy</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+             <link>
+			<name>View my Github</name>
+			<url>https://GitHub.com/twjacy</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+			<link>
+			<name>Add me on LINE</name>
+			<url>https://line.me/ti/p/SB93ss7w1j</url>
+			<i class="fab fa-line"></i>
+		</link>
+			<link>
+			<name>Add me on Telegram</name>
+			<url>https://t.me/twjacy</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+		<link>
+			<name>Add me on WeChat</name>
+			<url>https://twjacy.github.io/igg/assets/images/WeChat.png</url>
+			<iconclass>fa fa-wechat</iconclass>
+		</link>
+	</footerlinks>
+</repo>

@@ -1,0 +1,83 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.1",
+    "headerImage": "https://twjacy.github.io/igg/assets/headers/iGG_12_Speed.png",
+    "tintColor": "#3838af",
+    "tabs":
+    [
+        {
+            "class":"DepictionStackView",
+            "tabname": "Details",
+            "views":
+            [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "\n\n\u2063\n### Overview\n* iMemEditor is a memory editor.\n\n\u2063\n### Main Features\n* Search memory with precise numbers.\n* Search memory with vague instructions, e.g. larger or smaller.\n* Lock memory to a fixed number.\n* Save & Load the managed list.\n* Memory browser & editor.\n\n\u2063\n### Warning\n* Don't expect it works on every app. Some apps may encode the data; Some apps store data in servers.\n\n\u2063\n### Requirement\n* iOS 11.0 ~ 13.5\n\n\u2063\n### iMe crash\n* Please turn off \"Settings\" -> \"Privacy\" -> \"Advertising\" -> \"Limit Ad Tracking\" ",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "12.0.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "May 11, 2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Aqua Wu"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Source Code",
+                    "action" : "https://github.com/twjacy/igg"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Follow me on Twitter",
+                    "action" : "https://twitter.com/twjacy"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "WeChat Group",
+                    "action" : "https://twjacy.github.io/igg/assets/images/WeChat.png"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy on Taobao",
+                    "action" : "https://twjacy.taobao.com"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Tutorial",
+                    "action" : "https://twjacy.top/post/igg-12-speed/"
+                }
+            ]
+        },
+        {
+            "class":"DepictionStackView",
+            "tabname": "Changelog",
+            "views":
+            [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 12.0.4",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Improvements:**\n* Fix the UICache problem\n* Fix iGG UI display on iPhone XS Max\n* iGG 12 Speed is compatible with Chimera, Electra, and unc0ver",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "May 11, 2019",
+                    "useBoldText": false
+                },
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+<changelog>
+      <changes>
+             <version>8.3</version>
+             <change>提高 iGG 搜索速度，兼容 Electra、unc0ver</change>
+             <change>修复 UICache 问题</change>
+      </changes>
+      <changes>
+             <version>8.2</version>
+             <change>进一步适配 Electra</change>
+             <change>取消关机重启后需配合辅助插件，并下架</change>
+      </changes> 
+      <changes>
+            <version>8.0</version>
+            <change>适配 iOS 11 越狱</change>
+            <change>关机重启后需配合辅助插件</change>
+      </changes>
+	<changes>
+		<version>7.5.1</version>
+		<change>适配 iOS 10.2 越狱</change>
+	</changes>
+</changelog>

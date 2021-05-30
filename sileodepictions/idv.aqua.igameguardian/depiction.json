@@ -1,0 +1,78 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.1",
+    "headerImage": "https://twjacy.github.io/igg/assets/headers/iGG_7.5.1_8.3.png",
+    "tintColor": "#3838af",
+    "tabs":
+    [
+        {
+            "class":"DepictionStackView",
+            "tabname": "Details",
+            "views":
+            [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "\n\n\u2063\n### Overview\n* iGameGuardian is a memory editor.\n\n\u2063\n### Main Features\n* Search memory with precise numbers.\n* Search memory with vague instructions, e.g. larger or smaller.\n* Lock memory to a fixed number.\n* Save & Load the managed list.\n* Memory browser & editor.\n\n\u2063\n### Warning\n* Don't expect it works on every app. Some apps may encode the data; Some apps store data in servers.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Latest Version",
+                    "text": "8.3"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "Aug 8, 2018"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Aqua Wu"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Source Code",
+                    "action" : "https://github.com/twjacy/igg"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Follow me on Twitter",
+                    "action" : "https://twitter.com/twjacy"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy on Taobao",
+                    "action" : "https://twjacy.taobao.com"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "WeChat Group",
+                    "action" : "https://twjacy.github.io/igg/assets/images/WeChat.png"
+                }
+            ]
+        },
+        {
+            "class":"DepictionStackView",
+            "tabname": "Changelog",
+            "views":
+            [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 8.3",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Improvements:**\n* Fix the UICache problem\n* Fix iGG search speed, support Electra, unc0ver jailbreak",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Aug 8, 2018",
+                    "useBoldText": false
+                },
+            ]
+        }
+    ]
+}

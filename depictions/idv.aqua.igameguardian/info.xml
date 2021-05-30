@@ -1,0 +1,42 @@
+<package>
+	<id>idv.aqua.igameguardian</id>
+	<name>iGameGuardian</name>
+	<version>8.3</version>
+	<compatibility>
+		<firmware>
+                   <miniOS>8.0</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>iGameGuardian is a memory editor for iOS 8 to 11.</shortDescription>
+	<descriptionlist>
+		
+		
+		<description><![CDATA[
+		iGameGuardian（简称 iGG）是 iOS 平台内存编辑器，支持 iOS 8 ~ 11。<br/>
+		<br/>
+		1. 使用精确数字搜索内存；<br/>
+		2. 使用模糊指令搜索内存，例如更大或更小；<br/>
+		3. 将内存锁定为固定数字；<br/>
+		4. 保存/加载规则列表；<br/>
+		5. 内存浏览器/编辑器。<br/>
+		<br/>
+		注：iGG 8.3 支持 iOS 8.x ~ 11.4.1，iGG 7.5.1 支持 iOS 8.x ~ 10.3.3。
+		]]>
+             </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image>igg_7.5.1_8.3.png</image>
+        </screenshot>
+        <screenshot>
+            <image>screenshots.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>提高 iGG 搜索速度，兼容 Electra、unc0ver</change>
+	</changelog>
+	<links></links>
+</package>

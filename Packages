@@ -1,0 +1,333 @@
+Package: idv.aqua.gameover01
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.gameover01_12.0.4_iphoneos-arm.deb
+Size: 363548
+MD5sum: dcd1674ffb8f3813f8ef96ed2cb3381c
+SHA1: 4eb69b9842ce003e10366d0aa58441da7faf1aa8
+SHA256: 0f06b1ec004d6660c0dc0148900620bb326ffb1deb81982132baf6b61884bf05
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: GameOver01
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
+Package: idv.aqua.gameover02
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.gameover02_12.0.4_iphoneos-arm.deb
+Size: 363532
+MD5sum: e464bb2ed0ea156f23a9ed9d3a91d2ca
+SHA1: 580cf1d60e1919e9847720f29a82d49b91ca3a45
+SHA256: d4fd9012c6827a8e9a98c33e80153a6f45f655567bb2f9ba80bb6ffcaa40be79
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: GameOver02
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
+Package: idv.aqua.gameover03
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.gameover03_12.0.4_iphoneos-arm.deb
+Size: 363876
+MD5sum: b270dd0d29ea03f9aa1fe526868f7446
+SHA1: d58b40d5c3fde6399422db24a1bc01c1177cf2d5
+SHA256: 7668b1cdc22cc67d2096dfe3e1f1dd09d56e8908f7ef0a60fc6c1c0ebe3e7533
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: GameOver03
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
+Package: idv.aqua.gameover04
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.gameover04_12.0.4_iphoneos-arm.deb
+Size: 363860
+MD5sum: 661baac9b28a469912366c4a77e1ed98
+SHA1: 166446f7780fa6a1be606a7aef9b53dceeea03c6
+SHA256: 139d1e39344f52c70ef878d56601ba79a9fdeef4e8882121de54282c4eeb247e
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: GameOver04
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
+Package: idv.aqua.gameover05
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.gameover05_12.0.4_iphoneos-arm.deb
+Size: 363652
+MD5sum: 887b02a344c2ac577d8443d8c4ab0873
+SHA1: 36bee68b882e40b86d126867757e96851c29ca32
+SHA256: b538598e4be12b2f38b2f0ac6946823e54e9d616cc3f6d49b471c87b925dc916
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 12.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: GameOver05
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
+Package: idv.aqua.igameguardian
+Version: 7.5.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 15000
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igameguardian_7.5.1_iphoneos-arm.deb
+Size: 340180
+MD5sum: 60ee0798d3ec1eb0d06c4c1cbdb848d3
+SHA1: 06300bc7d8139213975aebde56e9c83148564a52
+SHA256: 9bab433ee310ede383d9592720fb8458b0082197762fb4fb995dc437e08dd5c3
+Section: Utilities
+Priority: optional
+Description: iGameGuardian is a memory editor for iOS 8 to 10.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igameguardian
+Dev: aqua
+Name: iGameGuardian
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igameguardian/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.igameguardian
+Version: 8.3
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 15000
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igameguardian_8.3_iphoneos-arm.deb
+Size: 341004
+MD5sum: 8ede189e3e9c56299d4025dbdd9f551f
+SHA1: fa74893ea22bc15ba945d8a20c464ad2b996ea6f
+SHA256: 5808337a493f27aead640d92b00b999c81fe5385d9625297ad931edf165d5069
+Section: Utilities
+Priority: optional
+Description: iGameGuardian is a memory editor for iOS 8 to 11.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igameguardian
+Dev: aqua
+Name: iGameGuardian
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igameguardian/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.igg12
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igg12_12.0.4_iphoneos-arm.deb
+Size: 362956
+MD5sum: 4707ae04683fcb122a9e2fb3d7974285
+SHA1: 6e8b9ba774f3a9c2461c6049f8292ce26b96070b
+SHA256: 916a74484a0a34e7703312b93fb9c4610fdc76d78a764da9c45a40f641dba184
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 8 to 10.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igg12
+Dev: aqua
+Name: iGG 12 Stable
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igg12/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.igg12.speed
+Version: 12.0.4
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 8.0)
+Filename: ./debs/idv.aqua.igg12.speed_12.0.4_iphoneos-arm.deb
+Size: 363196
+MD5sum: a85a598bc75f83219ea15c02126553c5
+SHA1: 516c9678a6f40ee4e29566d855717a848829d815
+SHA256: 1ebba456af1ca3ce4349844c4f496f1bbe30a62fe8eb527fa90d4b1b61315f7f
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iGameGuardian is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.igg12.speed
+Dev: aqua
+Name: iGG 12 Speed
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.igg12.speed/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.ime01
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.ime01_12.1_iphoneos-arm.deb
+Size: 403460
+MD5sum: 7f7a737ba8617e86f0d97ba6be59383e
+SHA1: b598695e8e3f630b0cf2ac24b093247a96ea7726
+SHA256: da1929d3d5f4c44c30713640cfc87b3528f08cc94847326021c2ed33b2cfb35d
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iME01
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.ime02
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.ime02_12.1_iphoneos-arm.deb
+Size: 403484
+MD5sum: 56f7214d04c18b2f0eac7858e9669edf
+SHA1: 1cf959f60b766368b75f184e6542ea9f02b6c692
+SHA256: 1622a43b0687798564c3a3c539f8c83e50f0f4a8b42251ec7385878a1dc54223
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iME02
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.ime03
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.ime03_12.1_iphoneos-arm.deb
+Size: 403440
+MD5sum: ea1df3eda5ca4e11b7f6fdabe4304a56
+SHA1: 64c1dae43d7a061aa74867d047a033b5522dc911
+SHA256: bd73a0176f7132e4f00f0d4cfa3b70e4ded96f8df8180d8451970afec63064c2
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iME03
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.ime04
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.ime04_12.1_iphoneos-arm.deb
+Size: 403552
+MD5sum: 9e7fe965ba1163fbf126d80223922650
+SHA1: a8a93ae9f7ad5ea34f10f76f6bd04a1376f6a78b
+SHA256: da50aa63dcd70e8ca345a66dd713077a17bdf511f1175075fca8b4856120212b
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iME04
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.ime05
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.ime05_12.1_iphoneos-arm.deb
+Size: 403292
+MD5sum: e431a4f3deb20e16cc3f3625d05a5e16
+SHA1: 86c0bec776000b2249ea618c22dde8e66bda1aa1
+SHA256: 5c8e7a413b7cba988518e50b08a26fab0ac1a9fb6d508ae2e9ca22f2c37b2efc
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: iME05
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+
+Package: idv.aqua.imem
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/idv.aqua.imem_12.1_iphoneos-arm.deb
+Size: 403364
+MD5sum: dd89745b14ce73e39364e3f6d44a76cd
+SHA1: 7610bdbec2e4dd82d018da63ae498845bebdf463
+SHA256: f9e277e7ef7a196b5c9af2f735c76231bb92b833861f9a891cbbe36955d25436
+Section: Utilities
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://twjacy.github.io/igg/depictions/?p=idv.aqua.imem
+Dev: aqua
+Name: iMemEditor
+Sileodepiction: https://twjacy.github.io/igg/sileodepictions/idv.aqua.imem/depiction.json
+Sponsor: Aqua Wu <igameguardian@gmail.com>
+

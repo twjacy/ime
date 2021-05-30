@@ -1,0 +1,19 @@
+<changelog>
+      <changes>
+             <version>12.0.4</version>
+             <change>修复 UICache 问题</change>
+             <change>修复 iGG 在 iPhone XS Max 上 UI 显示问题</change>
+      </changes>
+      <changes>
+             <version>12.0.3</version>
+             <change>更新支持 Chimera 越狱，兼容 Sileo 越狱商店，支持 A12 设备</change>
+      </changes> 
+      <changes>
+            <version>12.0.1</version>
+            <change>修复卡搜索问题</change>
+      </changes>
+	<changes>
+		<version>12.0</version>
+		<change>适配 iOS 12 越狱</change>
+	</changes>
+</changelog>
