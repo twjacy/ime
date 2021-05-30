@@ -1,12 +1,12 @@
-![](https://imgkr.cn-bj.ufileos.com/7c6cbee9-9b9e-48d6-b705-095dde37584d.svg)
+![](https://cdn.nlark.com/yuque/0/2020/svg/460162/1593264960028-2afa7738-4c1e-491b-ba1e-d669af4f8f94.svg)
 
 ## 文章声明
 
-本文为亦欢小店原创编写截图，版权©归亦欢小店所属，未授权任何个人/公司用于商业用途，如有雷同均为抄袭剽窃，发现抄袭剽窃行为，一律投诉到底。
+本文为亦欢小店原创编写截图，所有图片均加水印，版权 © 归亦欢小店所属，未授权任何个人/公司用于商业用途，如有雷同均为抄袭剽窃，发现抄袭剽窃行为，一律投诉到底。
 
 ## 简介
 
-iMemEditor（简称 iMe）是 iOS 平台内存编辑器，设备需要越狱。iMemEditor 就是 iGmaeGuardian，仅仅只是改了名字图标，无任何功能性差异，iMemEditor 前身为 iGG 12 Speed。
+iMemEditor（简称 iME）是 iOS 平台内存编辑器，设备需要越狱。iMemEditor 就是 iGameGuardian，开发者仅仅只是改了名字图标，无任何功能性差异，iMemEditor 前身为 iGG 12 Speed。
 
 > 原名为 iGameGuardian （简称 iGG），iOS 平台游戏守护者。
 
@@ -21,70 +21,67 @@ iMemEditor（简称 iMe）是 iOS 平台内存编辑器，设备需要越狱。i
 ## 支持
 
 1. 支持中英文界面
-2. 支持 A12/A13 越狱设备
-3. 支持 Chimera、checkra1n、Electra、unc0ver 越狱设备
-4. 支持 iOS 8.x ~ 13.5
-5. 支持 iPhone、iPad、iPod
+2. 支持 A9 - A14 越狱设备
+3. 支持 Electra、unc0ver、Chimera、Odyssey、Taurine、checkra1n 越狱设备
+4. 支持 iOS 8.x ~ 14.4
+5. 支持 iPhone、iPad、iPod Touch
 6. 支持 Cydia、Sileo、Installer、Zebra 插件管理器安装卸载
+   注意
+7. iOS 11 以上（iOS 11.0.x ~ 14.4）越狱设备安装 iMemEditor
+8. iOS 11 以下（iOS 8.0.x ~ 10.3.x）越狱设备安装 iGG 12 Stable
+9. 建议 iPhone 6s 以上机型，或者内存是 1G 以上设备使用 iME (iGG)
 
-## 注意
+## Cydia 如何安装 iME (iGG)
 
-1. **iOS 11 以上（iOS 11.0.x ~ 13.5）越狱设备安装 iMemEditor**
-2. **iOS 11 以下（iOS 8.0.x ~ 10.3.x）越狱设备安装 iGG 12 Stable**
-3. 建议 iPhone 6s 以上机型，或者内存是 1G 以上设备使用 iMe (iGG)
-
-## Cydia 如何安装 iMe (iGG)
-
-Electra、unc0ver、checkra1n 以及 iOS 10 以下越狱设备，默认插件管理器为 Cydia，以下为 Cydia 插件管理器如何安装 iMe (iGG) 的步骤。
+Electra、unc0ver、checkra1n 以及 iOS 10 以下越狱设备，默认插件管理器为 Cydia，以下为 Cydia 插件管理器如何安装 iME (iGG) 的步骤。
 
 ### 添加源地址
 
-添加作者源地址：[https://aquawu.github.io/igg](https://cydia.saurik.com/api/share#?source=https://aquawu.github.io/igg)（点击源地址一键添加至 Cydia）
+添加作者源地址：**https://aquawu.github.io/igg**
 
 打开 Cydia 依次点击：**软件源 -> 编辑（右上角） -> 添加（左上角） -> 输入源地址 -> 添加源**
 
-![](https://imgkr.cn-bj.ufileos.com/dba78178-f119-4554-92a4-8c572e0e7846.JPG)
-![](https://imgkr.cn-bj.ufileos.com/515592ce-b39f-4253-8a16-4d50279f82d0.JPG)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960121-56f50a3d-5dca-40bc-9ff3-318a177557ec.jpeg)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960123-c4f1cd37-b1e2-4ed8-bf97-c211060f960f.jpeg)
 
-### 安装 iMe
+### 安装 iME
 
-iMemEditor 支持 Electra、unc0ver、checkra1n 越狱设备，**iOS 11 以上（iOS 11.0.x ~ 13.5）**越狱设备安装 **iMemEditor**。
+iMemEditor 支持 Electra、unc0ver、checkra1n 越狱设备，**iOS 11 以上（iOS 11.0.x ~ 14.4）** 越狱设备安装 iMemEditor。
 
-![](https://imgkr.cn-bj.ufileos.com/16b7d79e-5c59-471f-9d05-39680b136897.JPG)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960088-6c18f894-002c-4008-b487-9ed41ceb983b.jpeg)
 
 ### 安装 iGG 12 Stable
 
-iGG 12 Stable（iGG 12 稳定版），**iOS 11 以下（iOS 8.0.x ~ 10.3.x）**越狱设备安装**iGG 12 Stable**，**iOS 11 以上请勿安装**。
+iGG 12 Stable（iGG 12 稳定版），**iOS 11 以下（iOS 8.0.x ~ 10.3.x）** 越狱设备安装 iGG 12 Stable，iOS 11 以上请勿安装。
 
-![](https://imgkr.cn-bj.ufileos.com/123d9847-b7ad-4914-88c5-2832e2885342.JPG)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960194-0174c5d8-6ddf-4bfd-9be6-1d76f55bb0b7.jpeg)
 
-## Sileo 如何安装 iMe
+## Sileo 如何安装 iME
 
-Chimera、Odysseyra1n (checkra1n) 越狱设备，默认插件管理器为 Sileo，以下内容为 Sileo 插件管理器如何安装 iMe。
+Chimera、Odyssey、Odysseyra1n (checkra1n)、Taurine 越狱设备，默认插件管理器为 Sileo，以下内容为 Sileo 插件管理器如何安装 iME。
 
 ### 添加源地址
 
-添加作者源地址：[https://aquawu.github.io/igg](sileo://source/https://aquawu.github.io/igg)（点击源地址一键添加至 Sileo）
+添加作者源地址：**https://aquawu.github.io/igg**
 
 打开 Sileo 依次点击：**软件源 -> +（右上角） -> 输入源地址 -> 添加源**
 
-![](https://imgkr.cn-bj.ufileos.com/6250a993-7534-42f0-a970-95b108822a0a.JPG)
-![](https://imgkr.cn-bj.ufileos.com/4c3bf6ac-e3c6-4ef7-9d1b-903e54f82541.JPG)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960109-89f2ba35-5d09-4d39-8d2b-467354763e31.jpeg)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960112-2c8e2c21-2bfb-4a7e-af50-db9679cbfbc0.jpeg)
 
-### 安装 iMe
-
-![](https://imgkr.cn-bj.ufileos.com/43327462-dbfc-4e8a-94cb-eae380da54b1.JPG)
-![](https://imgkr.cn-bj.ufileos.com/541763e5-72d1-4397-aea6-3c42ddc7a819.JPG)
+## 安装 iME
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960084-9d7c240f-d4b2-427e-bf16-5f0a28e3399a.jpeg)
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960133-a5773fb2-0f2a-4a6a-a796-337f4952631a.jpeg)
 
 ## 注册信息
 
-点击「**设置 -> 通用 -> 关于本机**」查看注册信息，WiFi 地址、蓝牙地址可**长按拷贝**。
+路径：「**设置 -> 通用 -> 关于本机**」查看注册信息，无线局域网地址（Wi-Fi 地址）、蓝牙可**长按拷贝**。
 
-1. Wi-Fi 地址（无线局域网地址）
-2. 蓝牙地址
+1. 无线局域网地址（Wi-Fi 地址）
+2. 蓝牙
 3. 邮箱地址（QQ 邮箱或其他邮箱地址）
 
-![](https://imgkr.cn-bj.ufileos.com/011bcf73-e4d8-4496-97bb-cd277c6b0142.jpg)
+> 国行设备显示为无线局域网，其他地区设备显示为 Wi-Fi 地址。
 
 ## 授权详情
 
@@ -93,103 +90,187 @@ Chimera、Odysseyra1n (checkra1n) 越狱设备，默认插件管理器为 Sileo�
 3. 不支持更换设备
 4. 不支持免费试用
 
-## 激活 iMe (iGG)
+## 激活 iME (iGG)
 
-注册完成后，打开 iMe (iGG) 直接联网验证，等待激活完成，无弹窗即表示激活成功。
+注册完成后，打开 iME (iGG) 直接联网验证，等待激活完成，无弹窗即表示激活成功。
 
 ### 情况一
-
-打开 iMe (iGG) -> 提示「初始化中…」 -> 提示消失 -> 激活完成
+打开 iME (iGG) -> 提示「初始化中…」 -> 弹窗消失 -> 激活完成
 
 ### 情况二
-
-打开 iMe (iGG) -> 提示「初始化中…」 -> 完成后提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 再次打开 iMe (iGG)，无弹窗 -> 激活完成
+打开 iME (iGG) -> 提示「初始化中…」 -> 完成后提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 再次打开 iME (iGG) 无弹窗 -> 激活完成
 
 ### 情况三
-
-打开 iMe (iGG) -> 提示「初始化失败，请向开发者寻求帮助」 -> 点击关闭 -> 循环操作 20次 -> 直到提示「初始化中…」 -> 完成后提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 再次打开 iMe (iGG)，无弹窗 -> 激活完成
+打开 iME (iGG) -> 提示「初始化失败，请向开发者寻求帮助」 -> 点击关闭 -> 循环操作 20 次 -> 直到提示「初始化中…」 -> 弹窗消失 -> 激活完成
 
 ### 情况四
+打开 iME (iGG) -> 提示「初始化失败，请向开发者寻求帮助」 -> 点击关闭 -> 循环操作 20 次 -> 直到提示「初始化中…」 -> 完成后提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 再次打开 iME (iGG) 无弹窗 -> 激活完成
 
-打开 iMe (iGG) -> 提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 排除冲突插件 -> 以上三种情况（不再赘述）
+### 情况五
+打开 iME (iGG) -> 提示「初始化失败，请重启您的设备」 -> 点击关闭 -> 排除冲突插件 -> 以上三种情况（不再赘述）
 
-> 以上为激活 iMe (iGG) 出现的几种情况，最后一种排除冲突插件可以借助 **iCleaner Pro**，或者手动卸载最近安装的插件，排除与 iMe (iGG) 冲突的插件，完成激活。
+> 以上为激活 iME (iGG) 出现的几种情况，最后一种排除冲突插件可以借助 iCleaner Pro，或者手动卸载最近安装的插件，排除与 iME (iGG) 冲突的插件，完成激活。
+
+## iME (iGG) 常规设置
+
+搜索范围的下限、上限请根据需要，灵活设置，不作特定设置。
+
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264961114-99513474-9c31-4edd-ab95-34a842c6c317.jpeg)
 
 ## 常见问题
 
-### iMe (iGG) 闪退
-
-iOS 12/13 设备恢复越狱后，打开 iMe (iGG) 闪退。
-
-请点击「**设置 -> 隐私 -> 广告**」关闭「**限制广告追踪**」选项，如果无法关闭，请退出 Apple ID，重新登录再次尝试关闭「**限制广告追踪**」。
-
-![](https://imgkr.cn-bj.ufileos.com/cc559c9f-099c-410f-b584-71cdb38ba60d.JPG)
-
 ### 卡初始化
 
-由于网络问题，可能出现卡「初始化中…」情况，建议关闭 iMe (iGG) 后，关机重启设备一次，尝试使用科学上网，再次打开 iMe (iGG) 激活。
+由于网络问题，可能出现卡「初始化中…」情况，建议关闭 iME (iGG) 后，关机重启设备一次，尝试使用科学上网，再次打开 iME (iGG) 激活。
 
-### 安装不同版本 iMe (iGG)
+### iOS 12/13 打开 iME (iGG) 闪退
 
-1. 从 Cydia/Sileo 中卸载已安装 iMe (iGG)；
-2. 注销/关机重启设备；
-3. 关机重启后需恢复越狱环境；
-4. 从 Cydia/Sileo 中安装 iMe (iGG)；
-5. 如果卡搜索，需要再次关机重启设备。
+iOS 12/13 设备恢复越狱后，打开 iME (iGG) 闪退。
 
-### 安装无图标
+前往「**设置 -> 隐私 -> 广告**」关闭「**限制广告追踪**」选项。如果无法关闭，请退出 Apple ID，重新登录再次尝试关闭「限制广告追踪」。
 
-1. 安装后尝试关键重启设备，如果没有效果再操作以下步骤；
-2. 从 Cydia/Sileo 中卸载已安装 iMe (iGG)；
-3. 建议使用 iCleaner Pro 执行清理操作；
-4. 注销/关机重启设备；
-5. 关机重启后需恢复越狱环境；
-6. 从 Cydia/Sileo 中安装 iMe (iGG)。
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960159-7dea82bd-7c96-4908-80bb-31a71b642aab.jpeg)
 
-### 卡搜索
+### 一直提示“初始化失败，请确认您拥有良好的网络联结”
 
-1) 请点击「更多」标签中查看「搜索范围」，注意游戏所容忍的最小值和最大值
+iME (iGG) 激活的网络环境优先顺序：4G + 科学上网 > Wi-Fi + 科学上网 > 4G > Wi-Fi
 
-​    如果您的设备是 32 位，请尝试「0x0 ~ 0x10000000」
+> iPad WiFi 版可以连接手机热点，相当于连接 4G。
 
-​    如果您的设备是 64 位，请尝试「0x0 ~ 0x200000000」
+### 一直提示“初始化失败，请重启您的设备”
 
-​    注：iPhone 5s 以上设备型号均为 64 位设备
+提示：已激活情况下，重新安装 iME (iGG) 会清除授权。
 
-2) 可能是内存（RAM）问题引起
+1. 如果你是 iOS 10 以下设备（含 iOS 10），请安装 iGG 12 Stable；
+2. 如果你是 iOS 11 以上设备（含 iOS 11），请安装 iMemEditor；
+3. 尝试卸载 iME (iGG)，关机重启恢复越狱，从官方源再次安装 iME (iGG)；
 
-​    请尝试重启您的设备，并在「更多」标签中开启「使用存储空间」选项
+> 如果无法正常使用，建议你卸载最近安装的插件，可能存在冲突插件。如果仍然无法正常使用，建议你清除越狱环境，重新越狱。
 
-3) 尝试重启设备，请不要使用 Flex 补丁来破坏 iMe (iGG)
+### 一直提示“初始化失败，请向开发者寻求协助”
 
-4) 以上方法都尝试了，还是行不通？请尝试重新安装 iMe (iGG)
-
-​    从 Cydia/Sileo 卸载 iMe (iGG)，关机重启恢复越狱，从 Cydia/Sileo 安装 iMe (iGG)
+1. 在注册完成前，提前打开 iME (iGG)，会出现该提示，打开 iME (iGG) 点击关闭弹窗，循环 20 次即可解决；
+2. 多次安装 iME (iGG)，会出现该提示，需自行发送重置邮件给开发者，进行 iME (iGG) 授权重置；
+3. 如果在其他店铺购买 iME (iGG) 存在恶意退款欺诈行为的不良记录，开发者会对 Wi-Fi 进行黑名单处理，打开 iME (iGG) 会出现该提示，如果你不确定，可以发送邮件给开发者进行询问。
 
 ### 提示 App Dead
 
-由于内存（RAM）不够导致 App 闪退而出现该提示，请尝试在「更多」标签中开启「使用存储空间」选项。
+由于内存（RAM）不够导致 App 闪退而出现该提示，请尝试在「更多」界面中开启「使用存储空间」选项。
 
-## 警告
+### 主屏幕未显示图标
+1. 从 Cydia/Sileo 安装 Respring Assistant (快速注销 + 联网修复)；
+2. 点击“快速注销”或者“刷新桌面图标”均可修复图标未显示；
+3. 如果没有效果再操作以下步骤；
+4. 从 Cydia/Sileo 中卸载已安装 iME (iGG)；
+5. 注销/关机重启设备；
+6. 重启设备后需恢复越狱环境；
+7. 从 Cydia/Sileo 中安装 iME (iGG)。
 
-请不要指望 iMe (iGG) 能适用于所有应用程序，有些应用程序可能会对数据进行编码，有些应用程序将数据存储在服务器中。
+![](https://cdn.nlark.com/yuque/0/2020/jpeg/460162/1593264960138-8c6dc8bb-caed-4af6-a99b-62cb4d781c0a.jpeg)
+
+### 安装不同版本 iME (iGG)
+1. 从 Cydia/Sileo 中卸载已安装 iME (iGG)；
+2. 注销/关机重启设备；
+3. 重启设备后需恢复越狱环境；
+4. 从 Cydia/Sileo 中安装 iME (iGG)；
+5. 如果卡搜索，需要再次关机重启设备。
+
+### 卡搜索
+
+- 进入「更多」界面中查看「搜索范围」，注意游戏所容忍的下限和上限
+- 如果您的设备是 32 位，请尝试「0x00000000 ~ 0x10000000」
+- 如果您的设备是 64 位，请尝试「0x000000000 ~ 0x200000000」
+
+> 注：iPhone 5s 以上设备型号均为 64 位设备
+
+- 可能是内存（RAM）问题引起
+  - 请尝试重启您的设备，并在「更多」界面中开启「使用存储空间」选项
+- 可能是 Flex 补丁引起
+  - 尝试重启设备，请不要使用 Flex 补丁来破坏 iME (iGG)
+- 以上方法都尝试了，还是行不通？请尝试重新安装 iME (iGG)
+  - 从 Cydia/Sileo 卸载 iME (iGG)，关机重启恢复越狱，从 Cydia/Sileo 安装 iME (iGG)
+
+### 虚拟 Wi-Fi 地址
+
+iME (iGG) 不支持虚拟 Wi-Fi 地址激活，必须恢复真实 Wi-Fi 地址。
+
+1. 安装 NewTerm (iOS 10 - 13) 终端插件；
+2. 输入 nvram -d wifiaddr；
+3. 关机重启设备；
+4. 重启设备后需恢复越狱环境。
+
+## iOS 14 使用 iME 注意事项
+
+### 关于私有地址
+
+在 iPhone 上使用私有网络地址
+
+为帮助保护您的隐私，iPhone 在加入的每个 Wi-Fi 网络上使用唯一的私有网络地址，叫做媒体访问控制 (MAC) 地址。
+
+【重要事项】为了更好地保护隐私，请为所有支持的网络打开“私有地址”。使用私有地址可帮助减少对 iPhone 跨不同 Wi-Fi 网络的跟踪。
+
+> 以上内容引用至 Apple 官网。
+
+开启私有地址之后，无线局域网地址（Wi-Fi 地址）将变成虚拟地址，与关于本机中的不一致。
+
+### 激活及使用注意事项
+iME 在 iOS 14 设备上如何激活
+
+- 在激活之前连接无线局域网（Wi-Fi），关闭私有地址。
+
+在蜂窝数据（4G、5G）模式下使用 iME
+
+- 需要在激活之前连接无线局域网（Wi-Fi），关闭私有地址，再切换至蜂窝数据（4G、5G）模式，打开 iME 进行联网验证激活。
+
+iOS 14 设备打开 iME 一直提示“初始化失败，请向开发者寻求协助”
+
+1. 连接无线局域网（Wi-Fi），关闭私有地址；
+2. 再打开 iME 点击弹窗“**关闭**”按钮，循环操作 **20** 次。
+
+切换无线局域网（Wi-Fi）之后，打开 iME 一直提示“初始化失败，请向开发者寻求协助”
+
+1. 关闭无线局域网（Wi-Fi）私有地址；
+2. 打开 iME 点击弹窗“**关闭**”按钮，循环操作 **20** 次。
+
+### 如何关闭网络的私有地址
+
+<![](https://files.mdnice.com/user/164/bd78635f-17fd-4b5e-b387-3effc5297777.png),![](https://files.mdnice.com/user/164/8fa89d44-198d-4b21-a5df-f7235fda8b88.png),![](https://files.mdnice.com/user/164/d8755dd7-1690-46fb-a1c1-4ccad26eb1c7.png),![](https://files.mdnice.com/user/164/191e7f5f-db66-4422-a840-9b9d6645d88d.png)>
+
+> 如果暂时无法连接到无线局域网（Wi-Fi），可以尝试连接移动热点，相当于连接无线局域网。
+
+### 兼容性
+在 iOS 14 上打开 iME 出现闪退？
+
+由于 iME 与 iOS 14 粗体文本不兼容，如果设备开启粗体文本显示，打开 iME 会出现闪退，目前解决办法只有关闭粗体文本，如何关闭粗体文本请看下图示例。
+
+### 如何关闭粗体文本
+
+<![](https://files.mdnice.com/user/164/bd78635f-17fd-4b5e-b387-3effc5297777.png),![](https://files.mdnice.com/user/164/2cb1e4a6-0e8d-451b-a413-a717d0e53f8b.png),![](https://files.mdnice.com/user/164/5acfc358-de00-43a6-95ee-932fb442da80.png)>
+
+## 重置授权
+
+多次安装 iME (iGG)，会出现该提示，需自行发送重置邮件给开发者，进行 iME (iGG) 授权重置。重置完成会收到回复邮件，一般中午 12 点左右或凌晨 12 点左右会收到回复邮件。
+
+![](https://cdn.nlark.com/yuque/0/2020/png/460162/1593264960131-830d9fbc-5f07-404a-a6e9-63c0c6f79cc2.png)
+
+## 友情提示
+
+请不要奢望 iME (iGG) 能适用于所有应用程序，有些应用程序可能会对数据进行编码，有些应用程序将数据存储在服务器中。
 
 ## 开发者
 
-Email：`igameguardian@gmail.com`
-
+Email：igameguardian@gmail.com
 Twitter：暂无
 
 ## 声明
+1. 本店所销售插件均为正版授权，通常情况下客服仅负责插件安装、注册激活类的基础指导，本店不义务提供使用过程中的指导及技术问题支持。
 
-### 本店免责声明
+2. 本店客服不是 iOS 插件开发者，无法为您解决插件的 Bug，需要用户自行邮件或者推特联系开发者进行解决。
 
-本店所销售插件均为正版授权，通常情况下客服仅负责插件安装、注册激活类的基础指导，本店不提供使用过程中的指导及技术问题支持。
+3. iME (iGG) 无试用功能，请在购买前务必认真考虑是否满足您的需要，再决定是否购买。由于虚拟商品的特殊性，插件一经拍下怒不退款，请您谅解。
 
-店主非越狱插件开发者，若您遇到插件使用上的 BUG 🐞，需自行邮件或者推特联系开发者，使其尽快修复更新。
+4. 若您所购买的 iME (iGG) 激活失败，可进行申请退款。若已激活成功，恶意申请退款，开发者有权利将设备拉黑处理。
 
-若您所购买的 iMe (iGG) 激活失败，可进行申请退款。若已激活成功，恶意申请退款，作者有权利将设备拉黑处理。
+5. 在您拍下 iME (iGG) 授权后表示您充分阅读、理解并且同意上述条目以及清楚授权使用限制。
 
-**通过购买或使用此应用程序，说明您接受上述内容。**
-
-🛒 购买链接：**https://item.taobao.com/item.htm?id=567139826602**
+🛒 购买链接：https://item.taobao.com/item.htm?id=567139826602
